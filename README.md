@@ -34,11 +34,11 @@ The Excel model also includes **What-If and Scenario Analysis** to explore how c
 
 ## Files
 
-- **Energy Infrastructure Investment Analysis.pdf** — Summary Report
-- **Energy Infrastructure Investment Analysis.pdf** — Full 8-page analysis and recommendations
-- **Energy Infrastructure Investment Analysis.xlsx** — Underlying analysis, scoring model and What-If/Scenario Analysis
-- **Power BI Dashboard.pdf** — Dashboard visualisation of key findings
-- **Energy Infrastructure Investment Analysis.pbix** — Power BI dashboard file
+- **Energy Infrastructure Investment Analysis.pdf** - Summary Report
+- **Energy Infrastructure Investment Analysis.pdf** - Full 8-page analysis and recommendations
+- **Energy Infrastructure Investment Analysis.xlsx** - Underlying analysis, scoring model and What-If/Scenario Analysis
+- **Power BI Dashboard.pdf** - Dashboard visualisation of key findings
+- **Energy Infrastructure Investment Analysis.pbix** - Power BI dashboard file
 
 ## Tools
 
